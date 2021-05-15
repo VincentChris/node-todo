@@ -1,4 +1,4 @@
-#!/use/bin/env node
+#!/usr/bin/env node
 const api = require("./api");
 const { Command } = require("commander");
 const program = new Command();
